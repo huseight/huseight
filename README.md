@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huseight
+- 👋 Hi, I’m Huseyin
 - 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning Database engineering with SQL, Python
 - 💞️ I’m looking to collaborate on data science and AI
